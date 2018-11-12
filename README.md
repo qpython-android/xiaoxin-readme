@@ -35,7 +35,7 @@
 
 <center>
   
-![微信公众号](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.jpg)
+<img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.jpg'/>
 
 </center>
 
@@ -43,7 +43,7 @@
 ## 关于漫画项目团队
 <center>
 
-![发起者River](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png)
+<img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png' />
 
 </center>
 
