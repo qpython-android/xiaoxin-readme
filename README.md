@@ -23,6 +23,13 @@
 
 ## 《小欣学Python》
 
+```
+“我是一名小白，我学编程的时候，特别希望能有人答疑”
+
+“没问题，就在这里，我们的公众号，不仅仅提供风趣幽默的漫画，循序渐进的挑战任务，还有细致耐心的答疑。”
+```
+
+
 ![微信公众号](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.jpg)
 
 
