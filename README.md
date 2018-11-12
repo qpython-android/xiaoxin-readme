@@ -28,4 +28,4 @@
 
 ## 关于漫画项目团队
 
-![发起者](https://mmbiz.qpic.cn/mmbiz_png/60Mxatt4fRODeCgtWNBvdMv3AgianJzYJQL4QibLPEQWfFKemlsI6mgib24TOFdPIeejtV0W6pPgt4y7bSPb69nNw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![发起者River](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png)
