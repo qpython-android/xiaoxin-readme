@@ -1,3 +1,5 @@
+<p align="center"><img width="100"src="https://github.com/XiaoxinLearnPython/readme/raw/master/assets/logo.jpg"></p>
+
 # 读我
 
 献给广大想要学习Python编程的普通人
