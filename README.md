@@ -21,7 +21,7 @@
 
 在此，我们呼吁有能力的朋友[加入我们](https://github.com/xiaoxinlearnpython/script)，提供上述帮助，和我们一起创作出一本让更多人改变生活方式的一流的编程学习作品。
 
-## 《小欣学Python》关于项目
+## 《小欣学Python》
 
 
 ## 漫画的主人公
