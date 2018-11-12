@@ -23,6 +23,10 @@
 
 ## 《小欣学Python》
 
+
+![所有主人公](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/all.png)
+
+
 ```
 “我是一名小白，我学编程的时候，特别希望能有人答疑”
 
@@ -31,11 +35,6 @@
 
 
 ![微信公众号](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.jpg)
-
-
-## 漫画的主人公
-
-![所有主人公](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/all.png)
 
 
 ## 关于漫画项目团队
