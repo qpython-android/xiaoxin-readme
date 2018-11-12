@@ -1,6 +1,6 @@
 # 读我
-Xiaoxin Learn Python Project - Readme please
 
+《小欣学Python》
 
 ## 我们的编程学习环境
 
