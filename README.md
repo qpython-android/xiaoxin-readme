@@ -23,6 +23,8 @@
 
 ## 《小欣学Python》
 
+![微信公众号](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.png)
+
 
 ## 漫画的主人公
 
