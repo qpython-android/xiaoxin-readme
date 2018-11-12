@@ -23,9 +23,7 @@
 
 ## 漫画的主人公
 
-![主人公小欣](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/xiaoxin.png)
-![主人公Vince](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/vince.png)
-![主人公UMAIS](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/umais.png)
+![所有主人公](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/all.png)
 
 
 ## 关于漫画项目团队
