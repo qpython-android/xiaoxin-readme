@@ -33,10 +33,17 @@
 “没问题，就在这里，我们通过公众号，不仅仅提供风趣幽默的漫画，循序渐进的挑战任务，还有细致耐心的答疑。”
 ```
 
-
+<center>
+  
 ![微信公众号](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/wechat.jpg)
+
+</center>
 
 
 ## 关于漫画项目团队
+<center>
 
 ![发起者River](https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png)
+
+</center>
+
