@@ -44,4 +44,7 @@
 
 <p align="center">
 <img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png' />
+<img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/dama.png' />
+<img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/akon.png' />
+
 </p>
