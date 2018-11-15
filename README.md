@@ -40,7 +40,7 @@
 </p>
 
 
-## 关于漫画项目团队
+## 关于我们
 
 <p align="center">
 <img src='https://github.com/XiaoxinLearnPython/readme/raw/master/assets/river.png' />
